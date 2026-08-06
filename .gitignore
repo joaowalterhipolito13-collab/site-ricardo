@@ -1,0 +1,23 @@
+# Raw reference images dropped in the project root (already copied/optimized into assets/img)
+BG imagem.png
+Ricardo Hero.png
+Ricardo Sobre.png
+Logo-branco.png
+ICON-V.png
+calculo renal.png
+cirurgia robotica.png
+disfunção eretil.png
+estética intima masculina.png
+ferminina.png
+humanizado.png
+infecção urinaria.png
+kids.png
+medalha.png
+urologia.png
+
+# Empty placeholder folder
+referencias/
+
+# OS files
+.DS_Store
+Thumbs.db
