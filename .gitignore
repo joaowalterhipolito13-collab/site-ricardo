@@ -21,3 +21,7 @@ referencias/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Office lock files
+~$*.docx
+~$*.doc
